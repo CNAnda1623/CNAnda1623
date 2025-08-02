@@ -1,3 +1,6 @@
+# Hi , I'm Chetan Nanda
+**Proficient in Python development, I specialize in building innovative software solutions, from robust software development
+ to advanced machine learning Projects, tailored to meet diverse needs.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chetan-s-nanda/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cnanda162@gmail.com) 
